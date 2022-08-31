@@ -1,4 +1,4 @@
-# UNetBiomedicalDiagnosis
+# DeepProg
 
 <p align='center'>
 <img width="588" alt="Example Mask Table" src="https://user-images.githubusercontent.com/103869590/175452211-fb04d0da-ab88-4514-ab3d-73cc782aa09e.PNG">
